@@ -81,8 +81,8 @@ httpd.serve_forever()
                 
 
 ## OUTPUT:
-![WhatsApp Image 2024-12-14 at 7 56 50 AM](https://github.com/user-attachments/assets/a388fa70-0f05-4554-95a4-416c6643f9f6)
-![Screenshot (10)](https://github.com/user-attachments/assets/d635f3dd-5027-4829-bdb4-a226a352f19a)
+![Screenshot 2025-04-12 050954](https://github.com/user-attachments/assets/07557fd0-0bf1-4739-8f70-b5783a4c488b)
+![Screenshot 2025-04-12 051031](https://github.com/user-attachments/assets/f54452ae-4a24-4484-98c1-fc0c6bf05440)
 
 
 ## RESULT:
