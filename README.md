@@ -1,5 +1,7 @@
-# EX01 Developing a Simple Webserver
-## Date:
+a# EX01 Developing a Simple Webserver
+## Date:12/4/25
+##Name: Abhishek kannan M
+## Reg no: 21222404007
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
